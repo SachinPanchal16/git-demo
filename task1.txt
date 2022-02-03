@@ -1,0 +1,8 @@
+Hello
+git init
+git config --global user.email "xyz@mail.com"
+git config --global user.name "xyz"
+git status
+git add file_name
+git commit -m "message"
+git push origin master
